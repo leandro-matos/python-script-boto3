@@ -43,4 +43,4 @@ Incluir as configurações da AWS utilizando o comando: aws-configure
 * AWS_SECRET_ACCESS_KEY
 * AWS_DEFAULT_REGION
 ```
-Mais informações na documentação: https://boto3.amazonaws.com/v1/documentation/api/1.9.42/guide/configuration.html
+- See more: https://boto3.amazonaws.com/v1/documentation/api/1.9.42/guide/configuration.html
